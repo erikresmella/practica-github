@@ -34,9 +34,10 @@ print(f"la division de var2 y var3 es igual a", division)
 division_entera=var2 // var3
 print(f"la division entera de var2 y var3 es igual a", division_entera)
 modulo=var2 % var3
-#Asi es como se hacen lassumas, restas,  multiplicaciones, divisiones, divisiones enteras y los modulos.
+#Asi es como se hacen lassumas, restas,  multiplicaciones, divisiones, divisiones enteras y modulos.
 print(f"el modulo de var2 y var3 es igual a", modulo)
 potencia=var2 ** var3
 print(f"la potencia de var2 y var3 es igual a", potencia)
+
 
 
